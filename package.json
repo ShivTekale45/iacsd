@@ -1,0 +1,23 @@
+{
+  "name": "iacsd",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivTekale45/iacsd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivTekale45/iacsd/issues"
+  },
+  "homepage": "https://github.com/ShivTekale45/iacsd#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
